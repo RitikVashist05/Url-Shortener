@@ -22,7 +22,7 @@ url_shortener/
 1. **Clone or Download** this repository to your local machine.
 2. Navigate to the project directory:
    ```
-   cd E:/url_shortener
+   cd ...url_shortener
    ```
 3. Install the required dependencies using `pip`:
    ```bash
